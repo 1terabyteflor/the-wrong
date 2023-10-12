@@ -1,0 +1,20 @@
+[
+    {
+        "artist":"Julien Pacaud", 
+        "bio": "Interdisciplinary artist working in the intersection between art and technology",
+        "title": "Serie: FALLEN GODS OF THE YEAR 10,000",
+        "about": "What if Eric Rohmer directed an adaptation of Isaac Asimov's story? \r\n    This collection engages again the cosmic and the intimate, which I'm always drawn to make speak to each other in my art. Here I decided to invoke the profound aesthetic influence that Sci Fi movies from the 70s and 80s and tell the stories of these fallen gods in a far distant future. In the year 10,000, everyone has become a god, but everyone still has to deal with emotions.",
+        "images": [
+            "../Julien-Pacaud/1.jpg"
+        ]
+    },    
+    {
+        "artist":"Ulises Studio", 
+        "bio": "Ulises studio (@ulises.studio) specialized in crafting near-future architectures, poetic atmospheres and refined art direction. Their aim is always to explore humanistic ideas, merging creative innovation and cutting edge technology, to design a non-artific future.\r\nAt Ulises, they believe that great design has the power to shape and inspire the world around us. They design immersive environments and captivating installations that transport people into extraordinary realms. Whether it's a digital masterpiece or a physical marvel, blending cutting-edge technology with our meticulous building skills to bring each project to its fullest potential.\r\nFrom conceptualization to completion, they work closely with clients to understand their vision and goals. Their collaborative process allows them to translate ideas into tangible realities, breathing life into spaces that engage and inspire.\r\nThey combine our expertise in architectural design, art direction, and storytelling to create narratives that resonate with audiences on a deep emotional level.\r\n",
+        "title": "SALTWATER SHELTERS",
+        "about": "Finding emotional refuges, solace or healing in the presence of the sea saltwater.\r\nTe panoramic windows frame the ever-changing canvas of the ocean, where the sun's rays dance upon the water's surface.\r\nIt's a place where your can escape the chaos of the world, where your senses ara awakened by the sights, sounds ant scents of the sea.\r\nIt's a reminder that, in the realm of design, we have the capacity to evoke emotions, to transcend the ordinary, and to build structures that resonate with te human soul.",
+        "images": [
+            "../Julien-Pacaud/1.jpg"
+        ]
+    }
+]

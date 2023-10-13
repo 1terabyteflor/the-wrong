@@ -19,7 +19,9 @@ const Nav = () => {
         <Link href="/artists" className='font-bold mb-2'>Artists</Link>
         <Link href="/curatorship" className='font-bold hover:text-aqua'>Curatorship</Link>
       </div>
-      <Image src="/logo.png" width={150} height={150} alt='The Wrong Biennale' className='flex bottom-1'/>
+      <Link href='https://thewrong.org/' target='_blank'>
+        <Image src="/logo.png" width={150} height={150} alt='The Wrong Biennale' className='flex bottom-1'/>
+      </Link>
     </nav>
   )
 }

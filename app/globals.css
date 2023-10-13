@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.icon {
+    color: black;
+    width: 1rem;
+    height: 1rem;
+}
+
+.icon:hover {
+    color: #83B5BE;
+}

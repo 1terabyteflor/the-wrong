@@ -11,6 +11,9 @@ const config: Config = {
     extend: {
       fontFamily: {
         arial: 'Arial'
+      }, 
+      colors: {
+        'aqua': '#83B5BE',
       }
     }
   }

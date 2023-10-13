@@ -1,3 +1,5 @@
+import Image from 'next/image'
+import Link from 'next/link'
 import React from 'react'
 
 const Nav = () => {
@@ -11,10 +13,13 @@ const Nav = () => {
   };
 
   return (
-    <nav className='flex sticky mt-5 w-52 max-h-screen flex-col'>
-      <p className='font-bold'>So Far So Near</p>
-      <p className='font-bold'>Curatorship</p>
-      <p className='font-bold'>Contact</p>
+    <nav className='flex sticky w-64 min-h-screen flex-col justify-between pb-10 ml-3 mt-3'>
+      <div className='flex flex-col'>
+        <Link href="/" className='font-bold mb-10'>So Far So Near</Link>
+        <Link href="/artists" className='font-bold mb-2'>Artists</Link>
+        <Link href="/curatorship" className='font-bold hover:text-aqua'>Curatorship</Link>
+      </div>
+      <Image src="/logo.png" width={150} height={150} alt='The Wrong Biennale' className='flex bottom-1'/>
     </nav>
   )
 }

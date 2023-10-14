@@ -6,9 +6,9 @@ import Link from "next/link";
 
 export default async function Curatorship() {
     return (
-        <div className="flex">
+        <div className="flex w-full pt-3 pr-40">
             <Nav/>
-            <div className="flex flex-col w-4/5 mr-10 pt-3">
+            <div className="flex flex-col">
                 <h1 className="font-arial font-bold text-lg">Curatorial Text</h1>
                 <p className="font-arial text-sm">The materiality of the digital technologies and the possibilities for circulation they enable have been producing a series of modifications in the field of art that reconfigure the concept of artwork, of its medium or form of circulation and, therefore, its reception. <br></br>
         So far, so near explores a series of pieces made with AI, in order to inquire about certain hegemonic narratives  linked not only with the artistic canon but with our worldview. <br></br>

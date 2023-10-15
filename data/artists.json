@@ -74,170 +74,133 @@
         },
         {
             "id": 5,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
-            "artist":"Polina Kostanda", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "title": "Series Wooden Jackets",
+            "about": "Have you ever thought that the world around you is mobile and soft? That everything we consider hard can be flexible and soft? For example, wood becomes so soft that it can be used to make clothes! Impossible? Impossible today. And tomorrow - it could very well be.",
+            "artist": "Polina Kostanda", 
+            "bio": "I was born and live in Ukraine. I am a poet and AI artist.\r\nThe main direction and goal of creativity is going beyond the boundaries of the usual. You can say that I create something for the sake of existential awakening, so that people think \u201Cwhy am I here\u201D, \u201Cis everything around real\u201D, \u201Cwhere are the boundaries of the familiar world and where is fantasy.\u201D With the advent of AI, this has become easier and images have been added to poetry.",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
+                "/Polina-Kostanda/1.jpg",
+                "/Polina-Kostanda/2.jpg",
+                "/Polina-Kostanda/3.jpg",
+                "/Polina-Kostanda/4.jpg",
+                "/Polina-Kostanda/5.jpg",
+                "/Polina-Kostanda/6.jpg",
+                "/Polina-Kostanda/7.jpg",
+                "/Polina-Kostanda/8.jpg",
+                "/Polina-Kostanda/9.jpg",
+                "/Polina-Kostanda/10.jpg"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://instagram.com/polly__in_wonderland"
             ]
         },
         {
             "id": 6,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "Lick Fire [Video, 06:22, 2023]",
+            "about": "Through intimate reflections, Lick Fire delves into the ecstasy and turmoil that spring forth from the limitless realm of imagination, while fearlessly contemplating the impending consequences of artificial intelligence in breathing life into these captivating and unreal realms.",
             "artist":"Jeff Zorrilla", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "Jeff Zorrilla was born in 1984 in the United States. He studied film at the University of Santa Cruz (California, USA), and the University of Copenhagen (Denmark). He currently lives and works in Buenos Aires, Argentina. He\u2019s directed numerous short films in Super 8.",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://www.instagram.com/jeffzorrilla"
             ]
         },
         {
             "id": 7,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "Album The Day Computers Became Obsolete by The Organizing Committee",
+            "about": "The Organizing Committee is artist and researcher Eryk Salvaggio\u2019s \u201CCyborg Pop\u201D project, created through a blend of generative processes which are then restructured into a blend of krautrock and disco with synthesized vocals. Techniques include sampling the outputs of GAN-generated music systems; training a language model on a blend of cybernetics, critical theory and feminist studies texts; or using transformer based systems to write melodies. Much of the music is also strongly critical of current regimes of AI: Salvaggio\u2019s work as a visual artist and writer is within the Algorithmic Resistance Research Group (ARRG!) which aims to challenge AI\u2019s spectacle through creative misuse.",
             "artist":"Eryk Salvaggio", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "Eryk Salvaggio is an artist, AI ethics researcher and educator, as well as the founder of the Algorithmic Resistance Research Group \u2014 a loosely knit cohort of artists engaged in the creative misuse of Generative AI, Machine Learning, and other automated data analysis systems. Salvaggio engages with AI by deliberately confusing, subverting or recontextualizing the outputs of these systems in creative ways. His practice speaks to the exploration and curiosity about black boxes that connects hacking culture and creative production. \r\nWhile Salvaggio\u2019s works reveal the workings of the underlying technical systems, he also highlights their entanglement within social and political systems. Salvaggio believes artists are uniquely positioned to model creative agency with automated systems, by showing new forms of creative engagement and critical play. His practice is rooted in 25 years of experience in digital art and media activism, and his work aims to challenge assumptions about AI while raising thoughtful questions about its regime of classification, description, and stereotyping.",
             "isAudio": true,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "http://www.cyberneticforests.com",
+                "http://instagram.com/cyberneticforests/",
+                "https://assemblag.es/@CyberneticForests"
             ]
         },
         {
             "id": 8,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "Series Artificial Natural History",
+            "about": "Crespo\u2019s artistic explorations of simulated life bring the organic into the digital. Her work not only helps viewers imagine what kind of speculative lifeforms might one day populate the metaverse, it also holds a mirror back to the biological world of the here and now, revealing how carbon-based life uses \u201Cartificial\u201D mechanisms to simulate itself and evolve. In this process, Crespo gives viewers the permission to find wonder in the algorithmic while deepening appreciation for the organic.\r\nWhile Salvaggio\u2019s works reveal the workings of the underlying technical systems, he also highlights their entanglement within social and political systems. Salvaggio believes artists are uniquely positioned to model creative agency with automated systems, by showing new forms of creative engagement and critical play. His practice is rooted in 25 years of experience in digital art and media activism, and his work aims to challenge assumptions about AI while raising thoughtful questions about its regime of classification, description, and stereotyping.",
             "artist":"Sofía Crespo", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "Sofia Crespo is an artist with a focus on artificial life, her practice is driven by a huge interest in biologically-inspired technologies. One of her main focuses is the way organic life uses artificial mechanisms to simulate itself and evolve. With an interest in the workings of the human brain, Crespo looks at the similarities between the techniques of AI image formation, and the way that humans express themselves creatively, and cognitively recognize their world.\r\n\r\nHer work brings into question the potential of AI in artistic practice and its ability to reshape our understanding of creativity. On the side, she is also hugely concerned with the dynamic change in the role of the artists working with machine learning techniques. She currently works as part of the artistic duo Entangled Others.\r\n\r\nHer works have been exhibited around the world both physically and digitally, such as Nvidia\u2019s GTC AI Gallery, Ars Electronica Gallery Spaces Garden, MAXXI and many more, she also gave a talk at TED 2022.",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://sofiacrespo.com/",
+                "https://www.instagram.com/sofiacrespo",
+                "https://twitter.com/soficrespo91",
+                "https://neuralzoo.com"
             ]
         },
         {
             "id": 9,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "Series IMAGES FROM THE SUBCONSCIOUS",
+            "about": "Images from the subconscious is an image series that explores the uncharted territories of the human mind through the lens of artificial intelligence, developing a deep interplay between generative AI and human imagination, mediated by the sensitivity and vision of the artist and author Lucio Arese.\r\nRanging from surrealism to symbolism, always with a photorealistic slant, each image is intended to be a fragment of an enigma, a glimpse at the vast ocean beneath the surface of thoughts and emotions, completely open to interpretation for any viewer. \r\nThe images have been created and edited using Midjourney and StableDiffusion.\r\nHer work brings into question the potential of AI in artistic practice and its ability to reshape our understanding of creativity. On the side, she is also hugely concerned with the dynamic change in the role of the artists working with machine learning techniques. She currently works as part of the artistic duo Entangled Others.\r\n\r\nHer works have been exhibited around the world both physically and digitally, such as Nvidia\u2019s GTC AI Gallery, Ars Electronica Gallery Spaces Garden, MAXXI and many more, she also gave a talk at TED 2022.",
             "artist":"Lucio Arese", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "Architect, composer, guitarist, pianist, visual artist, filmmaker. Working in various fields of visual arts and film since 2008.\r\nHis collaborations include artists, labels, and brands such as Suguru Goto, Jimmy Edgar, Bianco, Ametsub, Yu Miyashita, Mille Plateaux, Armando Testa, MPTBOX, Lovestone Films, Trinnov, Onitsuka Tiger, Asics, McKinsey, Karhu, Jacuzzi, De'Longhi. His work has been presented at onedotzero Adventures in Motion, Ars Electronica, Cyclops, ArtFutura, SIGGRAPH, Interfilm Berlin, SICAF, The Lovie Awards, FICUVAQ, MTV, Bayerischer Rundfunk, IAMAG, Fubiz, Vimeo Staff Picks, IdN Magazine, Stash, The Webby Awards, the 23rd Saatchi New Directors Showcase, and many others.\r\n\r\nThe experimental short film Les Dieux Changeants (2021) was an international success on the film festival circuit, with more than 100 selections and 40 awards worldwide including two Lovie Awards and a nomination for the Webby Awards 2022.\r\nHe has given workshops and lectures on his work at the Chiyoda Arts Center 3331 in Tokyo, the Liceo Artistico in Cuneo, and the Academy of Fine Arts in Bologna.\r\n'Somehow, Somewhere', his first music album, has been recently released on Bandcamp.",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
+                "/Lucio-Arese/1.png",
+                "/Lucio-Arese/2.png",
+                "/Lucio-Arese/3.png",
+                "/Lucio-Arese/4.png",
+                "/Lucio-Arese/5.png",
+                "/Lucio-Arese/6.png",
+                "/Lucio-Arese/7.png",
+                "/Lucio-Arese/8.png",
+                "/Lucio-Arese/9.png",
+                "/Lucio-Arese/10.png"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://www.lucioarese.net",
+                "https://www.instagram.com/lucioarese/",
+                "https://lucioarese.bandcamp.com/",
+                "https://www.lesdieuxchangeants.net/"
             ]
         },
         {
             "id": 10,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "Serie FALLEN GODS OF THE YEAR 10,000",
+            "about": "What if Eric Rohmer directed an adaptation of Isaac Asimov's story?\r\nThis collection engages again the cosmic and the intimate, which I'm always drawn to make speak to each other in my art. Here I decided to invoke the profound aesthetic influence that Sci Fi movies from the 70s and 80s and tell the stories of these fallen gods in a far distant future. In the year 10,000, everyone has become a god, but everyone still has to deal with emotions.",
             "artist":"Julien Pacaud", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "Julien Pacaud was born in 1972. He lives and works in Paris, France.\r\nA self-taught illustrator, he began experimenting with digital collage in the early 2000s after having studied cinematography at Louis Lumi\u00E8re school.\r\n\r\nInfluenced by cinema and television, he composes surrealist digital collages from a collection of old photos that he collects perpetually, here, there and everywhere. Each of his creations is an invitation to a journey in parallel universes (or as he prefers to call them : perpendicular dreams) where the past and the future meet, the improbable and the impossible, the futile and the metaphysical ...\r\n\r\nReinterpreting the geometry of space, Julien Pacaud depicts worlds that spread through thick clouds of ambiguity, where galaxies, mountains and strange characters collide to reorganize chaos.\r\n\r\nHe rejects the notion of technical virtuosity, but uses the computer as a tool which allows to go further than simple cut and paste, to be able to reach a visual coherence that brings some doubt about the medium.\r\n\r\nBesides his visual work, Pacaud extends his collage experimentations to sound and music, within the two-headed project Drahomira Song Orchestra.",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
+                "/Julien-Pacaud/1.jpg",
+                "/Julien-Pacaud/2.jpg",
+                "/Julien-Pacaud/3.jpg",
+                "/Julien-Pacaud/4.jpg",
+                "/Julien-Pacaud/5.jpg",
+                "/Julien-Pacaud/6.jpg",
+                "/Julien-Pacaud/7.jpg",
+                "/Julien-Pacaud/8.jpg",
+                "/Julien-Pacaud/9.jpg",
+                "/Julien-Pacaud/10.jpg"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://www.julienpacaud.com",
+                "https://www.instagram.com/julienpacaud",
+                "htts://www.facebook.com/julienpacaud"
             ]
         },
         {
             "id": 11,
-            "title": "Series Clickbait Paranoia",
-            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "title": "More weight, more cost [Video, AI tools, 4:49, 2023]",
+            "about": "The suitcase is heavy and if you exceed it it will be more expensive still.\r\nThe thoughts in the mind are heavy and if you. If you exceed it, it will be even more expensive.\r\nThe hard drive is heavy and if you exceed it it will be more expensive.\r\nThere are three types of weights that are reflected in this work: the object weight, the digital weight and the mental weight produced by the two previous ones. In a mobile life, without permanent location, and overloaded with information, weight is a great cost to us. The video shows a dialogue between the artist and artificial intelligence. After giving conversations and prompts to the AI tools, the images and voices glitch and perform creating an uncanny valley that heightens the feeling of restlessness.",
             "artist":"Diana Millán", 
-            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "bio": "(Spain, 1997) New media artist and researcher. PhD candidate in the program Artistic, Literary and Cultural Studies (EALyC), and Research Personnel in Training (PDIF-FPU) in the Department of Art praxis at Philosophy Faculty, Autonomous University of Madrid. Her research talks about archiving as a post-digital art practice and the problems of excessive digital archive in ecological terms.\r\nHer work as an artist has been exhibited in various spaces such as Sala Amad\u00EDs (Madrid, 2023), Modus Operandi Gallery + Nigredo.tv (Madrid, 2023), Cutto Gallery (Madrid, 2022), Centro P\u00E1rraga (Murcia, 2021 and 2022), Sala Acua (Cuenca, 2021), Nigredo Espacio (Madrid, 2019) or Kesselschmiede (Kassel, 2018).",
             "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
             ], 
             "social": [
-                "https://instagram.com/saintvita",
-                "https://cargocollective.com/santiagovitale"
+                "https://instagram.com/fearlessdiane"
             ]
         }
     ]

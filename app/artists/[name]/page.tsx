@@ -20,7 +20,8 @@ export default async function Artist (props: any) {
   const file = await fs.readFile(process.cwd() + '/data/artists.json', 'utf8');
   const data = JSON.parse(file);
   const artist = data.artists[props.params.name-1]
-  console.log(artist.images)
+  const formattedAbout = artist.about.replace(/\\r\\n/g, '\n');
+  const formattedBio = artist.bio.replace(/\\r\\n/g, '\n');
 
   return ( 
     <div className='flex py-3 pr-20'>
@@ -39,10 +40,13 @@ export default async function Artist (props: any) {
         />
       ))}
         <h1 className='font-bold mb-2 font-arial'>{artist.title}</h1>
-        <p>{artist.about}</p>
+        {formattedAbout.split('\n').map((line: any, index: any) => (
+          <p key={index}>{line}</p>
+        ))}
         <h3 className='font-bold mt-4 font-arial'>About</h3>
-        <p>{artist.bio}
-        </p>
+        {formattedBio.split('\n').map((line: any, index: any) => (
+          <p key={index}>{line}</p>
+        ))}
         <div className='flex mt-4'>
           <Link href="https://cargocollective.com/santiagovitale" className='mr-3 underline hover:text-aqua'>cargocollective.com/santiagovitale</Link>
           <Link href="https://www.instagram.com/saintvita/" target="_blank">

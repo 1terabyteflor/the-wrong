@@ -6,17 +6,18 @@
             "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
             "artist":"Santiago Vitale", 
             "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
             "images": [
-                "../Santiago-Vitale/1.png",
-                "../Santiago-Vitale/2.png",
-                "../Santiago-Vitale/3.png",
-                "../Santiago-Vitale/4.png",
-                "../Santiago-Vitale/5.png",
-                "../Santiago-Vitale/6.png",
-                "../Santiago-Vitale/7.png",
-                "../Santiago-Vitale/8.png",
-                "../Santiago-Vitale/9.png",
-                "../Santiago-Vitale/10.png"
+                "/Santiago-Vitale/1.png",
+                "/Santiago-Vitale/2.png",
+                "/Santiago-Vitale/3.png",
+                "/Santiago-Vitale/4.png",
+                "/Santiago-Vitale/5.png",
+                "/Santiago-Vitale/6.png",
+                "/Santiago-Vitale/7.png",
+                "/Santiago-Vitale/8.png",
+                "/Santiago-Vitale/9.png",
+                "/Santiago-Vitale/10.png"
             ], 
             "social": [
                 "https://instagram.com/saintvita",
@@ -29,6 +30,7 @@
             "about": "These series offer a unique path into the \u201Cunsettling\u201D aesthetics desired from those genres, without the rigid limitations of sample- based music. The inherent limitations and artefacts from tape, vinyl, and digital compression have long been a focal point of the DIY music community, and are often exaggerated as an intentional focal point. With the advent of AI audio, this was an opportunity to discover what some of those unique \u201CAI medium\u201D characteristics might be. \r\n\u201CParty Music\u201D was the wholly-inappropriate moniker chosen for these AI generated music releases in 2022: \r\nThe initial self-titled track was a collage assembled from the early training process. This was what I assumed to be the highest quality I could reasonably achieve with limited hardware and time, and I fell back onto traditional cutting\/looping techniques to complete the song. \r\n \u201CTake It Away!\u201D Is a collection of shorter tracks, curated from the same model a few days later. Additional training over this time unexpectedly improved quality and consistency, and the music fell into self-sustaining \u201Cwaves\u201D - now organic, and totally unique to the digital hard-cuts\/stutters I had manually incorporated in the previous track. \r\n \u201CJust the Hits!\u201D was the final run before retiring the model.",
             "artist":"Case Western", 
             "bio": "Graeme aka Case Western is primarily a vaporwave\/hypnagogic-adjacent producer, exploring AI training and generation. He lives in Alberta, Canada.",
+            "isAudio": true,
             "images": [
                 "../Santiago-Vitale/1.png",
                 "../Santiago-Vitale/2.png",
@@ -48,6 +50,7 @@
             "about": "Finding emotional refuges, solace or healing in the presence of the sea saltwater.\r\nTe panoramic windows frame the ever-changing canvas of the ocean, where the sun's rays dance upon the water's surface.\r\nIt's a place where your can escape the chaos of the world, where your senses ara awakened by the sights, sounds ant scents of the sea.\r\nIt's a reminder that, in the realm of design, we have the capacity to evoke emotions, to transcend the ordinary, and to build structures that resonate with te human soul.",
             "artist":"Ulises Studio", 
             "bio": "Ulises studio is specialized in crafting near-future architectures, poetic atmospheres and refined art direction. Their aim is always to explore humanistic ideas, merging creative innovation and cutting edge technology, to design a non-artific future.\r\nAt Ulises, they believe that great design has the power to shape and inspire the world around us. They design immersive environments and captivating installations that transport people into extraordinary realms. Whether it's a digital masterpiece or a physical marvel, blending cutting-edge technology with our meticulous building skills to bring each project to its fullest potential.\r\nFrom conceptualization to completion, they work closely with clients to understand their vision and goals. Their collaborative process allows them to translate ideas into tangible realities, breathing life into spaces that engage and inspire.\r\nThey combine our expertise in architectural design, art direction, and storytelling to create narratives that resonate with audiences on a deep emotional level.",
+            "isAudio": false,
             "images": [
                 "../Ulises-Studio/1.jpg",
                 "../Ulises-Studio/2.jpg",
@@ -69,7 +72,7 @@
             "id": 4,
             "title": "Sousveillance of Performance [Video, 01:26, 2021] ",
             "about": "In Sousveillance of performance, the affective processes of musicians recording themselves during a performance, expressed both in their faces and in their playing, are computationally analysed. We highlight, in equal terms, two sources of emotional communication, the face of the musician and the musical sounds, to examine their parallelisms, confluences, and divergences, to reflect on how they interact to convey meaning and to possibly extract an olfactory portrait of the performance that could translate, across the senses and in a single instant, the synthesis of the emotions deployed in time. \r\nIn this piece, we emphasise that the musical experience is always mediated not only by sounds but by other situational elements that contribute to the creation of an atmosphere of performance. We adhere to the conception of the philosopher Gernot B\u00F6hme, according to whom atmospheres have generators in several different senses (visual, auditory, tactile...), but they constitute in themselves the primary objects of perception, instead of the unimodal sensory impressions which he considers secondary. \r\nConnection with Topics and Sub Themes:\r\nTopics and subthemes: sousveillance, data mining, ways science could use sous- and surveillance. \r\nSousveillance, in its aspect of self-recording, is both a frequent and a time-honoured practice among musicians. Since the time of wax cylinders in the 19th century, both amateurs and professionals recorded their rehearsals or concerts to document and have feedback on their performance. Among other aims, this helps musicians plan and improve their expressive and emotional playing elements. \r\nRecently, performance researchers have begun to consider the information conveyed by the bodies and gestures of interpreters, finding, for instance, that the process of forming a music quality judgement can be affected by this gestuality. \r\nPianist: Emanuele Torquati\r\n\r\nFace analysis: Jean-Christophe Sakdavong ",
-            "artist":"Tedesco - Mesz", 
+            "artist":"Tedesco & Mesz", 
             "bio": "Sebastian Tedesco is an artist, industrial designer and scientific researcher. He is currently the academic coordinator and professor in the Specialization in Conceptual Design career at UNTREF, Co-director, and researcher of the project \"Transmodal associations between hearing, taste and olfaction\" at the Institute of Research in Art and Culture (IIAC-UNTREF), and graduate student at the Master in Visual Arts Curation - UNTREF. Coordinator of the artist\u2019s program Fronteras Suspendidas (Museum of Contemporary Art of the Province of Buenos Aires). Selection jury for the 2019 Braque Award, award jury for the Visual Arts Award of the National Endowment for the Arts, and the UADE 2020 Visual Arts Award. He participated as an artist and curator during the 2nd and 3rd editions of BIENALSUR. \r\nSince 2013 he has exhibited his work in individual and group exhibitions in Argentina and abroad, highlighting: Itau Prize for Visual Arts \/ FILE 2015 and 2017 \/ AUP, e-flux \/ The Wrong New Digital Biennale \/ TEDx Riodelaplata \/ Medialab-Prado \/ Faena Arts Center \/ MACBA \/ MALBA \/ BIENALSUR \/ Miami Art Week 2019 and Loop Barcelona 2019\/ Andreani Prize 2020. \r\n\r\nBruno Mesz is an artist-scientist. He is a professor and researcher at the National University of Tres de Febrero (Argentina). He works on multisensory perception, correspondences between modalities, and the mathematical theory of music, studying how music interacts with the chemical senses and applying this research to sensory design and art. He has designed multi-sensory performances and installations around the world; these works combine dance, music, visual art, gastronomy, and perfumery to create synesthetic atmospheres and experiences. They have been exhibited at the Cooper Hewitt Smithsonian Design Museum (New York), the MALBA Museum (Buenos Aires), the Buenos Aires International Tango Festival, BIENALSUR (Buenos Aires), Miami Art Week 2019, Loop Barcelona 2019, Andreani Prize 2020, among other places. In 2018 he co-organized the first International Symposium on Neuroscience and Wine in Barcelona. \r\nAs a pianist, he specialises in contemporary music and has given concerts both as a soloist and with international ensembles. Bruno has a Master's Degree in Mathematics from the University of Buenos Aires and a Professorship from the National Conservatory of Music.",
             "images": [
                 "../Tedesco-Mesz/1.mp4"
@@ -81,16 +84,171 @@
         },
         {
             "id": 5,
-            "artist":"Julien Pacaud", 
-            "bio": "Interdisciplinary artist working in the intersection between art and technology",
-            "title": "Serie: FALLEN GODS OF THE YEAR 10,000",
-            "about": "What if Eric Rohmer directed an adaptation of Isaac Asimov's story? \r\n    This collection engages again the cosmic and the intimate, which I'm always drawn to make speak to each other in my art. Here I decided to invoke the profound aesthetic influence that Sci Fi movies from the 70s and 80s and tell the stories of these fallen gods in a far distant future. In the year 10,000, everyone has become a god, but everyone still has to deal with emotions.",
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Polina Kostanda", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
             "images": [
-                "../Julien-Pacaud/1.jpg"
-            ],
-            "media": [
-
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
             ]
-        }    
+        },
+        {
+            "id": 6,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Jeff Zorrilla", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Eryk Salvaggio", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": true,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Sofía Crespo", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Lucio Arese", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Julien Pacaud", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Series Clickbait Paranoia",
+            "about": "Thinking about the limits of the virtual becomes more complex every day. Originally, Web 2.0 was used as a world parallel to reality, where nicknames were used and did not reflect real life.\r\nAt some point these two tied each other and began to mirror each other. Now, little by little, the digital environment not only involves the private sphere, but also the public one and is crucial in determining the sense of self.\r\nVirtual interactions matter more than tangible reality. The mediatization of existence brings new problems: paranoia of confinement and clickbait manipulation; fear of data and identity theft; fake news and malicious uses of artificial intelligence. Virtuality advances very quickly, taking portions of real life and threatening to take it completely.\r\nThis series of images is the result of fusing pairs of our own photochemical photographs with artificial intelligence.",
+            "artist":"Diana Millán", 
+            "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
+            "isAudio": false,
+            "images": [
+                "../Santiago-Vitale/1.png",
+                "../Santiago-Vitale/2.png",
+                "../Santiago-Vitale/3.png",
+                "../Santiago-Vitale/4.png",
+                "../Santiago-Vitale/5.png",
+                "../Santiago-Vitale/6.png",
+                "../Santiago-Vitale/7.png",
+                "../Santiago-Vitale/8.png",
+                "../Santiago-Vitale/9.png",
+                "../Santiago-Vitale/10.png"
+            ], 
+            "social": [
+                "https://instagram.com/saintvita",
+                "https://cargocollective.com/santiagovitale"
+            ]
+        }
     ]
 }

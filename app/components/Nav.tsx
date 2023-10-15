@@ -21,11 +21,11 @@ const listArtists: string[] = [
 
 const Nav = () => {
     return (
-    <nav className='flex sticky w-6/12 min-h-screen flex-col justify-between pb-10 mx-3 px-3'>
-      <div className='flex flex-col'>
+    <nav className='flex sticky min-h-screen flex-col justify-between pb-10 mx-3'>
+      <div className='flex flex-col w-52'>
         <Link href="/" className='font-bold mb-10'>So Far So Near</Link>
           {listArtists.map((name, index) => (
-            <Link key={index} href={`/artists/${name.replace(/ /g,"-")}`} className='mb-2 hover:text-aqua'>{name}
+            <Link key={index} href={`/artists/${index+1}`} className='mb-2 hover:text-aqua'>{name}
             </Link>
           ))}
         <Link href="/curatorship" className='font-bold hover:text-aqua mt-9'>Curatorship</Link>

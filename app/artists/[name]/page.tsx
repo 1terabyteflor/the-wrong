@@ -37,6 +37,12 @@ export default async function Artist (props: any) {
             </video>
         }
 
+        {artist.isAudio && 
+          artist.album.map((album: any, index: any) => (
+            <AudioPlayer album={album} key={index}/>
+          ) )
+        } 
+
       {artist.images.map((img: any, index: any) => (
         <Image
         key={index}

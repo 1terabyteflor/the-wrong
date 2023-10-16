@@ -37,8 +37,9 @@ export default async function Artist (props: any) {
             </video>
         }
 
-      {artist.images.map((img: any) => (
+      {artist.images.map((img: any, index: any) => (
         <Image
+        key={index}
           src={img}
           alt='2'
           width={0}

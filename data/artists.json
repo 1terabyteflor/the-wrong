@@ -7,6 +7,7 @@
             "artist":"Santiago Vitale", 
             "bio": "Santiago Vitale is a photographer and audiovisual editor, he studied audiovisual preservation and restoration (DiPRA) and Sociology at the Faculty of Social Sciences (UBA).\r\nHe investigates photography, live visuals, video and experimental cinema. His short films participated in international festivals and cycles.\r\nHe also developed a series of plastic works with electronic scrap.",
             "isAudio": false,
+            "video":"",
             "images": [
                 "/Santiago-Vitale/1.png",
                 "/Santiago-Vitale/2.png",
@@ -31,6 +32,7 @@
             "artist":"Case Western", 
             "bio": "Graeme aka Case Western is primarily a vaporwave\/hypnagogic-adjacent producer, exploring AI training and generation. He lives in Alberta, Canada.",
             "isAudio": true,
+            "video":"",
             "images": [
             ]
         },
@@ -41,6 +43,7 @@
             "artist":"Ulises Studio", 
             "bio": "Ulises studio is specialized in crafting near-future architectures, poetic atmospheres and refined art direction. Their aim is always to explore humanistic ideas, merging creative innovation and cutting edge technology, to design a non-artific future.\r\nAt Ulises, they believe that great design has the power to shape and inspire the world around us. They design immersive environments and captivating installations that transport people into extraordinary realms. Whether it's a digital masterpiece or a physical marvel, blending cutting-edge technology with our meticulous building skills to bring each project to its fullest potential.\r\nFrom conceptualization to completion, they work closely with clients to understand their vision and goals. Their collaborative process allows them to translate ideas into tangible realities, breathing life into spaces that engage and inspire.\r\nThey combine our expertise in architectural design, art direction, and storytelling to create narratives that resonate with audiences on a deep emotional level.",
             "isAudio": false,
+            "video":"",
             "images": [
                 "/Ulises-Studio/1.jpg",
                 "/Ulises-Studio/2.jpg",
@@ -64,8 +67,9 @@
             "about": "In Sousveillance of performance, the affective processes of musicians recording themselves during a performance, expressed both in their faces and in their playing, are computationally analysed. We highlight, in equal terms, two sources of emotional communication, the face of the musician and the musical sounds, to examine their parallelisms, confluences, and divergences, to reflect on how they interact to convey meaning and to possibly extract an olfactory portrait of the performance that could translate, across the senses and in a single instant, the synthesis of the emotions deployed in time. \r\nIn this piece, we emphasise that the musical experience is always mediated not only by sounds but by other situational elements that contribute to the creation of an atmosphere of performance. We adhere to the conception of the philosopher Gernot B\u00F6hme, according to whom atmospheres have generators in several different senses (visual, auditory, tactile...), but they constitute in themselves the primary objects of perception, instead of the unimodal sensory impressions which he considers secondary. \r\nConnection with Topics and Sub Themes:\r\nTopics and subthemes: sousveillance, data mining, ways science could use sous- and surveillance. \r\nSousveillance, in its aspect of self-recording, is both a frequent and a time-honoured practice among musicians. Since the time of wax cylinders in the 19th century, both amateurs and professionals recorded their rehearsals or concerts to document and have feedback on their performance. Among other aims, this helps musicians plan and improve their expressive and emotional playing elements. \r\nRecently, performance researchers have begun to consider the information conveyed by the bodies and gestures of interpreters, finding, for instance, that the process of forming a music quality judgement can be affected by this gestuality. \r\nPianist: Emanuele Torquati\r\n\r\nFace analysis: Jean-Christophe Sakdavong ",
             "artist":"Tedesco & Mesz", 
             "bio": "Sebastian Tedesco is an artist, industrial designer and scientific researcher. He is currently the academic coordinator and professor in the Specialization in Conceptual Design career at UNTREF, Co-director, and researcher of the project \"Transmodal associations between hearing, taste and olfaction\" at the Institute of Research in Art and Culture (IIAC-UNTREF), and graduate student at the Master in Visual Arts Curation - UNTREF. Coordinator of the artist\u2019s program Fronteras Suspendidas (Museum of Contemporary Art of the Province of Buenos Aires). Selection jury for the 2019 Braque Award, award jury for the Visual Arts Award of the National Endowment for the Arts, and the UADE 2020 Visual Arts Award. He participated as an artist and curator during the 2nd and 3rd editions of BIENALSUR. \r\nSince 2013 he has exhibited his work in individual and group exhibitions in Argentina and abroad, highlighting: Itau Prize for Visual Arts \/ FILE 2015 and 2017 \/ AUP, e-flux \/ The Wrong New Digital Biennale \/ TEDx Riodelaplata \/ Medialab-Prado \/ Faena Arts Center \/ MACBA \/ MALBA \/ BIENALSUR \/ Miami Art Week 2019 and Loop Barcelona 2019\/ Andreani Prize 2020. \r\n\r\nBruno Mesz is an artist-scientist. He is a professor and researcher at the National University of Tres de Febrero (Argentina). He works on multisensory perception, correspondences between modalities, and the mathematical theory of music, studying how music interacts with the chemical senses and applying this research to sensory design and art. He has designed multi-sensory performances and installations around the world; these works combine dance, music, visual art, gastronomy, and perfumery to create synesthetic atmospheres and experiences. They have been exhibited at the Cooper Hewitt Smithsonian Design Museum (New York), the MALBA Museum (Buenos Aires), the Buenos Aires International Tango Festival, BIENALSUR (Buenos Aires), Miami Art Week 2019, Loop Barcelona 2019, Andreani Prize 2020, among other places. In 2018 he co-organized the first International Symposium on Neuroscience and Wine in Barcelona. \r\nAs a pianist, he specialises in contemporary music and has given concerts both as a soloist and with international ensembles. Bruno has a Master's Degree in Mathematics from the University of Buenos Aires and a Professorship from the National Conservatory of Music.",
+            "isAudio": false, 
+            "video": "/Tedesco-Mesz/1.mp4",
             "images": [
-                "../Tedesco-Mesz/1.mp4"
             ],
             "social": [
                 "https://instagram.com/ulises.studio",
@@ -79,6 +83,7 @@
             "artist": "Polina Kostanda", 
             "bio": "I was born and live in Ukraine. I am a poet and AI artist.\r\nThe main direction and goal of creativity is going beyond the boundaries of the usual. You can say that I create something for the sake of existential awakening, so that people think \u201Cwhy am I here\u201D, \u201Cis everything around real\u201D, \u201Cwhere are the boundaries of the familiar world and where is fantasy.\u201D With the advent of AI, this has become easier and images have been added to poetry.",
             "isAudio": false,
+            "video": "",
             "images": [
                 "/Polina-Kostanda/1.jpg",
                 "/Polina-Kostanda/2.jpg",
@@ -102,6 +107,7 @@
             "artist":"Jeff Zorrilla", 
             "bio": "Jeff Zorrilla was born in 1984 in the United States. He studied film at the University of Santa Cruz (California, USA), and the University of Copenhagen (Denmark). He currently lives and works in Buenos Aires, Argentina. He\u2019s directed numerous short films in Super 8.",
             "isAudio": false,
+            "video": "",
             "images": [
             ], 
             "social": [
@@ -115,6 +121,7 @@
             "artist":"Eryk Salvaggio", 
             "bio": "Eryk Salvaggio is an artist, AI ethics researcher and educator, as well as the founder of the Algorithmic Resistance Research Group \u2014 a loosely knit cohort of artists engaged in the creative misuse of Generative AI, Machine Learning, and other automated data analysis systems. Salvaggio engages with AI by deliberately confusing, subverting or recontextualizing the outputs of these systems in creative ways. His practice speaks to the exploration and curiosity about black boxes that connects hacking culture and creative production. \r\nWhile Salvaggio\u2019s works reveal the workings of the underlying technical systems, he also highlights their entanglement within social and political systems. Salvaggio believes artists are uniquely positioned to model creative agency with automated systems, by showing new forms of creative engagement and critical play. His practice is rooted in 25 years of experience in digital art and media activism, and his work aims to challenge assumptions about AI while raising thoughtful questions about its regime of classification, description, and stereotyping.",
             "isAudio": true,
+            "video": "",
             "images": [
             ], 
             "social": [
@@ -130,6 +137,7 @@
             "artist":"Sofía Crespo", 
             "bio": "Sofia Crespo is an artist with a focus on artificial life, her practice is driven by a huge interest in biologically-inspired technologies. One of her main focuses is the way organic life uses artificial mechanisms to simulate itself and evolve. With an interest in the workings of the human brain, Crespo looks at the similarities between the techniques of AI image formation, and the way that humans express themselves creatively, and cognitively recognize their world.\r\n\r\nHer work brings into question the potential of AI in artistic practice and its ability to reshape our understanding of creativity. On the side, she is also hugely concerned with the dynamic change in the role of the artists working with machine learning techniques. She currently works as part of the artistic duo Entangled Others.\r\n\r\nHer works have been exhibited around the world both physically and digitally, such as Nvidia\u2019s GTC AI Gallery, Ars Electronica Gallery Spaces Garden, MAXXI and many more, she also gave a talk at TED 2022.",
             "isAudio": false,
+            "video": "",
             "images": [
             ], 
             "social": [
@@ -146,6 +154,7 @@
             "artist":"Lucio Arese", 
             "bio": "Architect, composer, guitarist, pianist, visual artist, filmmaker. Working in various fields of visual arts and film since 2008.\r\nHis collaborations include artists, labels, and brands such as Suguru Goto, Jimmy Edgar, Bianco, Ametsub, Yu Miyashita, Mille Plateaux, Armando Testa, MPTBOX, Lovestone Films, Trinnov, Onitsuka Tiger, Asics, McKinsey, Karhu, Jacuzzi, De'Longhi. His work has been presented at onedotzero Adventures in Motion, Ars Electronica, Cyclops, ArtFutura, SIGGRAPH, Interfilm Berlin, SICAF, The Lovie Awards, FICUVAQ, MTV, Bayerischer Rundfunk, IAMAG, Fubiz, Vimeo Staff Picks, IdN Magazine, Stash, The Webby Awards, the 23rd Saatchi New Directors Showcase, and many others.\r\n\r\nThe experimental short film Les Dieux Changeants (2021) was an international success on the film festival circuit, with more than 100 selections and 40 awards worldwide including two Lovie Awards and a nomination for the Webby Awards 2022.\r\nHe has given workshops and lectures on his work at the Chiyoda Arts Center 3331 in Tokyo, the Liceo Artistico in Cuneo, and the Academy of Fine Arts in Bologna.\r\n'Somehow, Somewhere', his first music album, has been recently released on Bandcamp.",
             "isAudio": false,
+            "video": "",
             "images": [
                 "/Lucio-Arese/1.png",
                 "/Lucio-Arese/2.png",
@@ -172,6 +181,7 @@
             "artist":"Julien Pacaud", 
             "bio": "Julien Pacaud was born in 1972. He lives and works in Paris, France.\r\nA self-taught illustrator, he began experimenting with digital collage in the early 2000s after having studied cinematography at Louis Lumi\u00E8re school.\r\n\r\nInfluenced by cinema and television, he composes surrealist digital collages from a collection of old photos that he collects perpetually, here, there and everywhere. Each of his creations is an invitation to a journey in parallel universes (or as he prefers to call them : perpendicular dreams) where the past and the future meet, the improbable and the impossible, the futile and the metaphysical ...\r\n\r\nReinterpreting the geometry of space, Julien Pacaud depicts worlds that spread through thick clouds of ambiguity, where galaxies, mountains and strange characters collide to reorganize chaos.\r\n\r\nHe rejects the notion of technical virtuosity, but uses the computer as a tool which allows to go further than simple cut and paste, to be able to reach a visual coherence that brings some doubt about the medium.\r\n\r\nBesides his visual work, Pacaud extends his collage experimentations to sound and music, within the two-headed project Drahomira Song Orchestra.",
             "isAudio": false,
+            "video": "",
             "images": [
                 "/Julien-Pacaud/1.jpg",
                 "/Julien-Pacaud/2.jpg",
@@ -197,6 +207,7 @@
             "artist":"Diana Millán", 
             "bio": "(Spain, 1997) New media artist and researcher. PhD candidate in the program Artistic, Literary and Cultural Studies (EALyC), and Research Personnel in Training (PDIF-FPU) in the Department of Art praxis at Philosophy Faculty, Autonomous University of Madrid. Her research talks about archiving as a post-digital art practice and the problems of excessive digital archive in ecological terms.\r\nHer work as an artist has been exhibited in various spaces such as Sala Amad\u00EDs (Madrid, 2023), Modus Operandi Gallery + Nigredo.tv (Madrid, 2023), Cutto Gallery (Madrid, 2022), Centro P\u00E1rraga (Murcia, 2021 and 2022), Sala Acua (Cuenca, 2021), Nigredo Espacio (Madrid, 2019) or Kesselschmiede (Kassel, 2018).",
             "isAudio": false,
+            "video": "/Diana-Millan/1.mp4",
             "images": [
             ], 
             "social": [

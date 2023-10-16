@@ -25,9 +25,8 @@ const Nav = () => {
   const isDetailPage = name !== undefined; 
 
   const isSelected = (nameId: string) => {
-      return name === nameId ? "font-bold mb-2 text-aqua" : "mb-2 hover:text-aqua opacity-10";
+      return name === nameId ? "font-bold mb-2 hover:text-aqua" : "mb-2 opacity-10 hover:text-aqua hover:opacity-100";
   };
-
 
     return (
     <nav className='flex sticky min-h-screen flex-col justify-between pb-10 mx-3'>

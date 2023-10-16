@@ -29,6 +29,13 @@ export default async function Artist (props: any) {
         <Nav/>
       </div>
       <div className='pl-52 pr-2 flex-1 flex-col overflow-y-auto'>
+        {artist.video !== "" && 
+              <video width="100%" height="100%" className='mb-2' controls>
+              <source src={artist.video} type="video/mp4" />
+              Tu navegador no admite la reproducción de videos.
+            </video>
+        }
+
       {artist.images.map((img: any) => (
         <Image
           src={img}

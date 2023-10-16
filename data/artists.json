@@ -34,7 +34,41 @@
             "isAudio": true,
             "video":"",
             "images": [
-            ]
+            ],
+            "album": [
+                {
+                  "coverImage": "/Case-Western/1-Party-Music/cover.jpg",
+                  "title": "Party-Music - Party Music",
+                  "tracks": [
+                    { "title": "Party-Music - Party Music", 
+                    "audioUrl": "/Case-Western/1-Party-Music/1.mp3" }
+              ]
+                },
+                {
+                    "coverImage": "/Case-Western/2-Party-Music/cover.png",
+                    "title": "Party Music - Take It Away! EP",
+                    "tracks": [
+                      { "title": "01 Jukebox Saturday Nightmare", 
+                        "audioUrl": "/Case-Western/2-Party-Music/1.mp3" },
+                      { "title": "02 I Got It Bad (Cluster Headaches)", 
+                        "audioUrl": "/Case-Western/2-Party-Music/2.mp3" },
+                      { "title": "03 So-Called-Elmer`s So-Called-Tune", 
+                        "audioUrl": "/Case-Western/2-Party-Music/3.mp3" },
+                      { "title": "04 Why Don`t You Play Right", 
+                        "audioUrl": "/Case-Western/2-Party-Music/4.mp3" }
+                    ]
+                  },
+                  {
+                    "coverImage": "/Case-Western/3-Party-Music/cover.jpg",
+                    "title": "Party Music - Just The Hits!",
+                    "tracks": [
+                        { "title": " 01 My Old Flame (Extended Dance Mix)", 
+                        "audioUrl": "/Case-Western/3-Party-Music/1.mp3" },
+                        { "title": " 02 How Deep Is the Ocean (Original)", 
+                        "audioUrl": "/Case-Western/3-Party-Music/2.mp3" }
+                    ]
+                  }
+              ]
         },
         {
             "id": 3,

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import React from 'react'
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { promises as fs } from 'fs';
+import AudioPlayer from '@/app/components/AudioPlayer';
 
 interface Artist {
   id: number,

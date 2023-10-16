@@ -33,7 +33,7 @@ const Nav = () => {
       <div className='flex flex-col w-52'>
         <Link href="/" className='font-bold mb-10 mt-1'>So Far So Near</Link>
           {listArtists.map((nameArtist, index) => (
-            <Link key={index} href={`/artists/${index+1}`} className={isDetailPage ? isSelected((index+1).toString()) : "mb-2"}>{nameArtist}
+            <Link key={index} href={`/artists/${index+1}`} className={isDetailPage ? isSelected((index+1).toString()) : "mb-2 hover:font-bold"}>{nameArtist}
             </Link>
           ))}
         <Link href="/curatorship" className='font-bold hover:text-aqua mt-9'>Curatorship</Link>

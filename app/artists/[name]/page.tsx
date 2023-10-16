@@ -38,9 +38,11 @@ export default async function Artist (props: any) {
         }
 
         {artist.isAudio && 
-          artist.album.map((album: any, index: any) => (
-            <AudioPlayer album={album} key={index}/>
-          ) )
+        <div className='flex'>
+          { artist.album.map((album: any, index: any) => (
+              <AudioPlayer album={album} key={index}/>
+          ))}
+          </div>
         } 
 
       {artist.images.map((img: any, index: any) => (

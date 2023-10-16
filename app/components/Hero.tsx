@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
+import Logo from './Logo'
 
 const Hero = () => {
   return (
@@ -12,9 +13,7 @@ const Hero = () => {
         <Link href='https://thewrong.org/' target='_blank'>
             <Image src='/logo.png' width={200} height={200} alt='the wrong logo' className='absolute bottom-2 left-4'/>
         </Link>
-        <Link href='https://c7studio.net/' target='_blank'>
-            <Image src='/logo-c7.png' width={100} height={90} alt='the wrong logo' className='absolute bottom-2 right-4'/>
-        </Link>
+        <Logo/>
     </div>
   )
 }

@@ -1,6 +1,7 @@
 import React from 'react'
 import Nav from '../components/Nav'
 import AudioPlayer, { Album } from '../components/AudioPlayer'
+import Logo from '../components/Logo';
 
 const artistAlbums: Album[] = [
   {
@@ -35,6 +36,7 @@ export default async function Artists () {
   return (
     <div className='flex w-full pt-3'>
         <Nav/>
+        <Logo/>
 {/*         {artistAlbums.map((album, index) => (
           <AudioPlayer key={index} album={album} />
       ))}

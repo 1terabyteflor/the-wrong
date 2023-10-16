@@ -1,6 +1,7 @@
 'use client'
 import Image from 'next/image'
 import Link from 'next/link'
+import { useRouter, useParams } from 'next/navigation'
 import React, { useEffect } from 'react'
 
 const listArtists: string[] = [
@@ -20,12 +21,20 @@ const listArtists: string[] = [
 
 
 const Nav = () => {
+  const { name } = useParams();
+  const isDetailPage = name !== undefined; 
+
+  const isSelected = (nameId: string) => {
+      return name === nameId ? "font-bold mb-2 text-aqua" : "mb-2 hover:text-aqua opacity-10";
+  };
+
+
     return (
     <nav className='flex sticky min-h-screen flex-col justify-between pb-10 mx-3'>
       <div className='flex flex-col w-52'>
-        <Link href="/" className='font-bold mb-10'>So Far So Near</Link>
-          {listArtists.map((name, index) => (
-            <Link key={index} href={`/artists/${index+1}`} className='mb-2 hover:text-aqua'>{name}
+        <Link href="/" className='font-bold mb-10 mt-1'>So Far So Near</Link>
+          {listArtists.map((nameArtist, index) => (
+            <Link key={index} href={`/artists/${index+1}`} className={isDetailPage ? isSelected((index+1).toString()) : "mb-2"}>{nameArtist}
             </Link>
           ))}
         <Link href="/curatorship" className='font-bold hover:text-aqua mt-9'>Curatorship</Link>

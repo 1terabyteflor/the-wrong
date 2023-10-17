@@ -18,8 +18,6 @@ const listArtists: string[] = [
   "Diana Millán"
 ]
 
-
-
 const Nav = () => {
   const { name } = useParams();
   const isDetailPage = name !== undefined; 

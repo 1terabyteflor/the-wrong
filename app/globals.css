@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body { 
+    scroll-behavior: smooth
+  }
+
 .icon {
     color: black;
     width: 1rem;
@@ -15,8 +19,6 @@
 .logoc7 {
     animation: spinX 5s linear infinite;
     transition: opacity 0.5s;
-
-    
 }
 
 
@@ -28,3 +30,4 @@
         transform: rotateY(360deg);
     }
 }
+

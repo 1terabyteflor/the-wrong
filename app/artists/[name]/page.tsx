@@ -10,9 +10,9 @@ import AudioPlayer from '@/app/components/AudioPlayer';
 interface Artist {
   id: number,
   title: string;
-  about: string; 
+  about: any; 
   artist: string;
-  bio: string;
+  bio: any;
   images: string[];
   social: string[];
 };

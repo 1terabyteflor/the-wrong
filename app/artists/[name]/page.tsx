@@ -57,7 +57,7 @@ export default async function Artist (props: any) {
 
       {artist.images.map((img: any, index: any) => (
         <Image
-        key={index}
+          key={index}
           src={img}
           alt='2'
           width={0}
@@ -76,8 +76,8 @@ export default async function Artist (props: any) {
         ))}
         <h3 className='font-bold mt-4 font-arial'>Contact</h3>
         <div className='flex'>
-        {artist.social.map((social: any, key: any) => (
-          <Link href={social} className='mr-3 underline hover:text-aqua' target='_blank'>
+        {artist.social.map((social: any, key: number) => (
+          <Link key={key} href={social} className='mr-3 underline hover:text-aqua' target='_blank'>
             {social.toLowerCase().includes('instagram') ? <FontAwesomeIcon icon={faInstagram} className="mt-1 icon" /> : getTitleFromUrl(social)}
           </Link>
           ))}  

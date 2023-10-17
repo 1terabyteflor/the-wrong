@@ -14,6 +14,7 @@ const config: Config = {
       }, 
       colors: {
         'aqua': '#83B5BE',
+        'a': '#E0E8EC'
       }
     }
   }

@@ -29,8 +29,8 @@ const Nav = () => {
   };
 
     return (
-    <nav className='flex sticky min-h-screen flex-col justify-between pb-10 mx-3'>
-      <div className='flex flex-col w-52'>
+    <nav className='flex sticky min-h-screen flex-col justify-between pb-2 mx-4'>
+      <div className='flex flex-col w-40'>
         <Link href="/" className='font-bold mb-10 mt-1'>So Far So Near</Link>
           {listArtists.map((nameArtist, index) => (
             <Link key={index} href={`/artists/${index+1}`} className={isDetailPage ? isSelected((index+1).toString()) : "mb-2 hover:font-bold"}>{nameArtist}
@@ -39,7 +39,7 @@ const Nav = () => {
         <Link href="/curatorship" className='font-bold hover:text-aqua mt-9'>Curatorship</Link>
       </div>
       <Link href='https://thewrong.org/' target='_blank'>
-        <Image src="/logo.png" width={150} height={150} alt='The Wrong Biennale' className='flex bottom-1'/>
+        <Image src="/logo.png" width={150} height={150} alt='The Wrong Biennale' className='flex bottom-2 left-4'/>
       </Link>
     </nav>
   )

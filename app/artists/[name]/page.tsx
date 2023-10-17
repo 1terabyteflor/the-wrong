@@ -24,17 +24,27 @@ export default async function Artist (props: any) {
   const formattedAbout = artist.about.replace(/\\r\\n/g, '\n');
   const formattedBio = artist.bio.replace(/\\r\\n/g, '\n');
 
+  const getTitleFromUrl = (url: string) => {
+    const cleanedUrl = url.replace(/https:\/\/www\./, '');
+    const urlParts = cleanedUrl.split('/');
+    const title = urlParts[urlParts.length -1];
+
+    return title;
+  };
+
+
   return ( 
     <div className='flex py-3 pr-20'>
       <div className='fixed left-0 top-0 overflow-y-auto'>
         <Nav/>
       </div>
       <div className='pl-52 pr-2 flex-1 flex-col overflow-y-auto'>
-        {artist.video !== "" && 
-              <video width="100%" height="100%" className='mb-2' controls>
+        {artist.video !== "" &&
+            <video width="100%" height="100%" className='mb-2' controls>
               <source src={artist.video} type="video/mp4" />
               Tu navegador no admite la reproducción de videos.
-            </video>
+            </video> 
+            // <><iframe src="https://player.vimeo.com/video/833783951?h=f6153a151f" width="900" height="506" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe></>
         }
 
         {artist.isAudio && 
@@ -64,11 +74,13 @@ export default async function Artist (props: any) {
         {formattedBio.split('\n').map((line: any, index: any) => (
           <p key={index}>{line}</p>
         ))}
-        <div className='flex mt-4'>
-          <Link href="https://cargocollective.com/santiagovitale" className='mr-3 underline hover:text-aqua'>cargocollective.com/santiagovitale</Link>
-          <Link href="https://www.instagram.com/saintvita/" target="_blank">
-              <FontAwesomeIcon icon={faInstagram} className="mt-1 icon" />
+        <h3 className='font-bold mt-4 font-arial'>Contact</h3>
+        <div className='flex'>
+        {artist.social.map((social: any, key: any) => (
+          <Link href={social} className='mr-3 underline hover:text-aqua' target='_blank'>
+            {social.toLowerCase().includes('instagram') ? <FontAwesomeIcon icon={faInstagram} className="mt-1 icon" /> : getTitleFromUrl(social)}
           </Link>
+          ))}  
         </div>
       </div>
     </div>

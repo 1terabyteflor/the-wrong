@@ -11,7 +11,7 @@ const Hero = () => {
           <h1 className='md:absolute top-2/4 left-1/3  text-7xl font-arial hover:text-aqua'>So Far, So Near</h1>
         </Link>
         <Link href='https://thewrong.org/' target='_blank'>
-            <Image src='/logo.png' width={200} height={200} alt='the wrong logo' className='absolute bottom-2 left-4'/>
+            <Image src='/logo.png' width={150} height={150} alt='the wrong logo' className='absolute bottom-2 left-4'/>
         </Link>
         <Logo/>
     </div>

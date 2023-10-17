@@ -68,6 +68,9 @@
                         "audioUrl": "/Case-Western/3-Party-Music/2.mp3" }
                     ]
                   }
+              ],
+              "social": [
+                "https://partymusic.bandcamp.com"
               ]
         },
         {
@@ -106,8 +109,10 @@
             "images": [
             ],
             "social": [
-                "https://instagram.com/ulises.studio",
-                "https://www.ulises.studio"
+                "https://www.instagram.com/bmesz/",
+                "https://www.brunomesz.com",
+                "https://www.instagram.com/tedescosebastian/",
+                "https://www.sebastiantedesco.com"
             ]
         },
         {
@@ -141,7 +146,7 @@
             "artist":"Jeff Zorrilla", 
             "bio": "Jeff Zorrilla was born in 1984 in the United States. He studied film at the University of Santa Cruz (California, USA), and the University of Copenhagen (Denmark). He currently lives and works in Buenos Aires, Argentina. He\u2019s directed numerous short films in Super 8.",
             "isAudio": false,
-            "video": "",
+            "video": "Vimeo",
             "images": [
             ], 
             "social": [
@@ -189,8 +194,8 @@
                 }
             ],
             "social": [
-                "http://www.cyberneticforests.com",
-                "http://instagram.com/cyberneticforests/",
+                "https://instagram.com/cyberneticforests/",
+                "https://www.cyberneticforests.com",
                 "https://assemblag.es/@CyberneticForests"
             ]
         },
@@ -205,8 +210,8 @@
             "images": [
             ], 
             "social": [
-                "https://sofiacrespo.com/",
                 "https://www.instagram.com/sofiacrespo",
+                "https://sofiacrespo.com",
                 "https://twitter.com/soficrespo91",
                 "https://neuralzoo.com"
             ]
@@ -232,10 +237,10 @@
                 "/Lucio-Arese/10.png"
             ], 
             "social": [
-                "https://www.lucioarese.net",
                 "https://www.instagram.com/lucioarese/",
-                "https://lucioarese.bandcamp.com/",
-                "https://www.lesdieuxchangeants.net/"
+                "https://www.lucioarese.net",
+                "https://lucioarese.bandcamp.com",
+                "https://www.lesdieuxchangeants.net"
             ]
         },
         {
@@ -259,9 +264,9 @@
                 "/Julien-Pacaud/10.jpg"
             ], 
             "social": [
-                "https://www.julienpacaud.com",
                 "https://www.instagram.com/julienpacaud",
-                "htts://www.facebook.com/julienpacaud"
+                "https://www.julienpacaud.com",
+                "https://www.facebook.com/julienpacaud"
             ]
         },
         {

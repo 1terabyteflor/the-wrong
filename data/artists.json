@@ -146,7 +146,7 @@
             "artist":"Jeff Zorrilla", 
             "bio": "Jeff Zorrilla was born in 1984 in the United States. He studied film at the University of Santa Cruz (California, USA), and the University of Copenhagen (Denmark). He currently lives and works in Buenos Aires, Argentina. He\u2019s directed numerous short films in Super 8.",
             "isAudio": false,
-            "video": "Vimeo",
+            "video": "/Jeff-Zorrilla/1.mov",
             "images": [
             ], 
             "social": [
@@ -208,6 +208,16 @@
             "isAudio": false,
             "video": "",
             "images": [
+                "/Sofia-Crespo/1.png",
+                "/Sofia-Crespo/2.png",
+                "/Sofia-Crespo/3.png",
+                "/Sofia-Crespo/4.png",
+                "/Sofia-Crespo/5.png",
+                "/Sofia-Crespo/6.png",
+                "/Sofia-Crespo/7.png",
+                "/Sofia-Crespo/8.png",
+                "/Sofia-Crespo/9.png",
+                "/Sofia-Crespo/10.png"
             ], 
             "social": [
                 "https://www.instagram.com/sofiacrespo",

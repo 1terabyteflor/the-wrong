@@ -4,20 +4,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import React from "react";
+import artistsJson from "@/data/artists.json";
 
-const artists = [
-  { id: "case_western", name: "Case Western" },
-  { id: "diana_millan", name: "Diana Millán" },
-  { id: "eryk_salvaggio", name: "Eryk Salvaggio" },
-  { id: "jeff_zorrilla", name: "Jeff Zorrilla" },
-  { id: "julien_pacaud", name: "Julien Pacaud" },
-  { id: "lucio_arese", name: "Lucio Arese" },
-  { id: "polina_kostanda", name: "Polina Kostanda" },
-  { id: "santiago_vitale", name: "Santiago Vitale" },
-  { id: "sofia_crespo", name: "Sofía Crespo" },
-  { id: "tedesco_mesz", name: "Tedesco & Mesz" },
-  { id: "ulises_studio", name: "Ulises Studio" },
-];
+const artists = Array.from(artistsJson.artists);
 
 const Nav = () => {
   const { name } = useParams();
@@ -33,14 +22,14 @@ const Nav = () => {
         <Link href="/" className="font-bold mb-10 mt-1">
           So Far So Near
         </Link>
-        {artists.map((artist, index: number) => {
+        {artists.map((artist) => {
           return (
             <Link
-              key={`artist-${artist.id}`}
+              key={`artist-${artist.id}-${artist.artist}`}
               href={`/artists/${artist.id}`}
-              className={isDetailPage ? isSelected(artist.id) : "mb-2 hover:text-aqua"}
+              className={isDetailPage ? isSelected(`${artist.id}`) : "mb-2 hover:text-aqua"}
             >
-              {artist.name}
+              {artist.artist}
             </Link>
           );
         })}

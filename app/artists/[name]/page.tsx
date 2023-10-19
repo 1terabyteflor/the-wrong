@@ -6,22 +6,26 @@ import React from "react";
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { promises as fs } from "fs";
 import AudioPlayer from "@/app/components/AudioPlayer";
-
+import artistsJson from "@/data/artists.json";
 export interface ArtistPageProps {
   params: { name: string };
 }
 
 export const generateStaticParams = async () => {
-  const artists = await fs.readdir(process.cwd() + "/data/artists");
-
-  return artists.map((artist) => ({
-    slug: { name: artist.replace(".json", "") },
-  }));
+  return artists.map((artist) => {
+    return {
+      slug: {
+        name: artist.id,
+      },
+    };
+  });
 };
 
+const artists = Array.from(artistsJson.artists);
+
 export default async function Page({ params }: ArtistPageProps) {
-  const file = await fs.readFile(process.cwd() + "/data/artists/" + params.name + ".json", "utf8");
-  const artist = JSON.parse(file);
+  const artist = artists.find((artist) => artist.id === parseInt(params.name))!;
+
   const formattedAbout = artist.about.replace(/\\r\\n/g, "\n");
   const formattedBio = artist.bio.replace(/\\r\\n/g, "\n");
 

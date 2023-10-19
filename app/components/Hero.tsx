@@ -6,11 +6,11 @@ import Link from 'next/link';
 const Hero = () => {
   return (
     <div className='min-h-screen h-screen w-full mx-0 md:relative text-center'>
-        <Image src="/hero.png" alt='hero' fill/>
+        <Image src="/Santiago-Vitale/10.png" alt='hero' fill/>
         <Link className='scroll-smooth' href='#artists'>
           <div className='flex flex-col top-2/4 left-1/3 md:absolute items-center'>
-            <h1 className=' text-7xl font-arial text-a'>So Far, So Near</h1>
-            <Image src="/Vector.svg" width={35} height={20} alt='action' className='fill-a mt-4 animate-pulse'/>
+            <h1 className=' text-7xl font-arial hover:text-a'>So Far, So Near</h1>
+            <Image src="/Vector.svg" width={35} height={20} alt='action' className='mt-4 animate-pulse'/>
           </div>
         </Link>
 

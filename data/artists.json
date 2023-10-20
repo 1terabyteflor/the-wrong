@@ -9,15 +9,15 @@
             "isAudio": false,
             "video":"",
             "images": [
-                "/Santiago-Vitale/1.png",
                 "/Santiago-Vitale/2.png",
                 "/Santiago-Vitale/3.png",
                 "/Santiago-Vitale/4.png",
                 "/Santiago-Vitale/5.png",
                 "/Santiago-Vitale/6.png",
-                "/Santiago-Vitale/7.png",
                 "/Santiago-Vitale/8.png",
                 "/Santiago-Vitale/9.png",
+                "/Santiago-Vitale/1.png",
+                "/Santiago-Vitale/7.png",
                 "/Santiago-Vitale/10.png"
             ], 
             "social": [
@@ -208,16 +208,16 @@
             "isAudio": false,
             "video": "",
             "images": [
-                "/Sofia-Crespo/1.png",
-                "/Sofia-Crespo/2.png",
-                "/Sofia-Crespo/3.png",
-                "/Sofia-Crespo/4.png",
+                "/Sofia-Crespo/1.jpg",
+                "/Sofia-Crespo/2.jpg",
+                "/Sofia-Crespo/3.jpg",
+                "/Sofia-Crespo/4.PNG",
                 "/Sofia-Crespo/5.png",
-                "/Sofia-Crespo/6.png",
-                "/Sofia-Crespo/7.png",
+                "/Sofia-Crespo/6.jpg",
+                "/Sofia-Crespo/7.jpg",
                 "/Sofia-Crespo/8.png",
-                "/Sofia-Crespo/9.png",
-                "/Sofia-Crespo/10.png"
+                "/Sofia-Crespo/9.jpg",
+                "/Sofia-Crespo/10.jpg"
             ], 
             "social": [
                 "https://www.instagram.com/sofiacrespo",

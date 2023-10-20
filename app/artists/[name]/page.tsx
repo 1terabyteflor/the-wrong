@@ -69,7 +69,7 @@ export default async function Page({ params }: ArtistPageProps) {
             width={0}
             height={0}
             sizes="100vw"
-            style={{ width: "100%", height: "auto", marginBottom: "20px" }}
+            style={{ width: "70%", height: "auto", marginBottom: "20px" }}
           />
         ))}
         <h1 className="font-bold mb-2 font-arial">{artist.title}</h1>

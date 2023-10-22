@@ -17,8 +17,8 @@ const Nav = () => {
   };
 
   return (
-    <nav className="flex sticky min-h-screen flex-col justify-between pb-2 mx-4">
-      <div className="flex flex-col w-40">
+    <nav className="flex sticky min-h-screen flex-col justify-between pb-2 mr-4">
+      <div className="flex flex-col w-40 ml-4">
         <Link href="/" className="font-bold mb-10 mt-1">
           So Far So Near
         </Link>
@@ -38,7 +38,7 @@ const Nav = () => {
         </Link>
       </div>
       <Link href="https://thewrong.org/" target="_blank">
-        <Image src="/logo.png" width={150} height={150} alt="The Wrong Biennale" className="flex bottom-2 left-4" />
+        <Image src="/logo.png" width={150} height={150} alt="The Wrong Biennale" className="flex bottom-2" />
       </Link>
     </nav>
   );

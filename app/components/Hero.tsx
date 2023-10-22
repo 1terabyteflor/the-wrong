@@ -15,7 +15,7 @@ const Hero = () => {
         </Link>
 
         <Link href='https://thewrong.org/' target='_blank'>
-            <Image src='/logo.png' width={150} height={150} alt='the wrong logo' className='absolute bottom-2 left-4'/>
+            <Image src='/logo.png' width={150} height={150} alt='the wrong logo' className='absolute bottom-2'/>
         </Link>
         <Logo/>
     </div>

@@ -7,6 +7,7 @@ import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { promises as fs } from "fs";
 import AudioPlayer from "@/app/components/AudioPlayer";
 import artistsJson from "@/data/artists.json";
+import Navbar from "@/app/components/Navbar";
 export interface ArtistPageProps {
   params: { name: string };
 }
@@ -39,10 +40,10 @@ export default async function Page({ params }: ArtistPageProps) {
 
   return (
     <div className="flex py-3 pr-20">
-      <div className="fixed left-0 top-0 overflow-y-auto">
+      <div className="hidden md:flex md:fixed left-0 top-0 overflow-y-auto">
         <Nav />
       </div>
-      <div className="pl-52 pr-2 flex-1 flex-col overflow-y-auto">
+      <div className="md:pl-52 md:pr-2 flex-1 flex-col overflow-y-auto ">
         {
           artist.video !== "" && (
             <video width="100%" height="100%" className="mb-2" controls>

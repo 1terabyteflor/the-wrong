@@ -27,7 +27,7 @@ const Navbar = () => {
     const isSelected = (nameId: string) => {
       return name === nameId ? "mb-2 hover:text-aqua" : "mb-2 opacity-10 hover:text-aqua hover:opacity-100";
     }; 
-    
+
   return (
     <div style={{backgroundColor: `transparent`}} className='fixed left-0 top-0 w-full z-10 ease-in duration-300 '>
         <div className='max-w-[1500px] pt-2 flex justify-end items-center text-black'>

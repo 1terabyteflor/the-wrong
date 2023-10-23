@@ -39,11 +39,14 @@ export default async function Page({ params }: ArtistPageProps) {
   };
 
   return (
-    <div className="flex py-3 pr-20">
+    <div className="flex flex-col py-3 px-10 justify-center">
+      <div className="z-[3]">
+        <Navbar />
+      </div>
       <div className="hidden md:flex md:fixed left-0 top-0 overflow-y-auto">
         <Nav />
       </div>
-      <div className="md:pl-52 md:pr-2 flex-1 flex-col overflow-y-auto ">
+      <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center ">
         {
           artist.video !== "" && (
             <video width="100%" height="100%" className="mb-2" controls>
@@ -70,7 +73,7 @@ export default async function Page({ params }: ArtistPageProps) {
             width={0}
             height={0}
             sizes="100vw"
-            style={{ width: "70%", height: "auto", marginBottom: "20px" }}
+            style={{ width: "100%", height: "auto", marginBottom: "20px" }}
           />
         ))}
         <h1 className="font-bold mb-2 font-arial">{artist.title}</h1>

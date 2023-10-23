@@ -4,7 +4,7 @@ import React from 'react'
 
 const Logo = () => {
   return (
-    <Link href="https://c7studio.net/" target='_blank'>
+    <Link href="https://c7studio.net/" target='_blank' className='z-[3]'>
 
     <div className="flex w-auto h-auto absolute bottom-2 right-4 invert">
       <Image className="" src="/c.svg" alt="Logo" width={22} height={50} />

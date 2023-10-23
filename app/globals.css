@@ -31,3 +31,6 @@ html, body {
     }
 }
 
+.custom-img{
+    background-image: url('../public/Santiago-Vitale/10.png');
+}

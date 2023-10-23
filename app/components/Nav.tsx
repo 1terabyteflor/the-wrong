@@ -5,10 +5,19 @@ import Link from "next/link";
 import { useParams } from "next/navigation";
 import React from "react";
 import artistsJson from "@/data/artists.json";
+import { useState } from "react";
 
 const artists = Array.from(artistsJson.artists);
 
+
+
 const Nav = () => {
+  const [nav, setNav] = useState(false);
+
+  const handleNav = () => {
+    setNav(!nav)
+  }
+
   const { name } = useParams();
   const isDetailPage = name !== undefined;
 
@@ -17,7 +26,7 @@ const Nav = () => {
   };
 
   return (
-    <nav className="flex sticky min-h-screen flex-col justify-between pb-2 mr-4">
+    <nav className=" hidden md:flex sticky min-h-screen flex-col justify-between pb-2 mr-4">
       <div className="flex flex-col w-40 ml-4">
         <Link href="/" className="font-bold mb-10 mt-1">
           So Far So Near

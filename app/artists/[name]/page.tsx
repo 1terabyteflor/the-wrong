@@ -49,12 +49,8 @@ export default async function Page({ params }: ArtistPageProps) {
       <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center ">
         {
           artist.video !== "" && (
-            <video width="100%" height="100%" className="mb-2" controls>
-              <source src={artist.video} type="video/mp4" />
-              Tu navegador no admite la reproducción de videos.
-            </video>
+            <iframe src={artist.video} width="1220" height="687" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>          
           )
-          // <><iframe src="https://player.vimeo.com/video/833783951?h=f6153a151f" width="900" height="506" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe></>
         }
 
         {!!artist.album && (

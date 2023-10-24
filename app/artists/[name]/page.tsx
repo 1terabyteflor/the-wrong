@@ -54,7 +54,7 @@ export default async function Page({ params }: ArtistPageProps) {
         }
 
         {!!artist.album && (
-          <div className="flex">
+          <div className="flex flex-col md:flex-row">
             {artist.album.map((album: any, index: any) => (
               <AudioPlayer album={album} key={index} />
             ))}

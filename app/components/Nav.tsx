@@ -31,10 +31,10 @@ const Nav = () => {
         <Link href="/" className="font-bold mb-10 mt-1">
           So Far So Near
         </Link>
-        {artists.map((artist) => {
+        {artists.map((artist, index) => {
           return (
             <Link
-              key={`artist-${artist.id}-${artist.artist}`}
+              key={index}
               href={`/artists/${artist.id}`}
               className={isDetailPage ? isSelected(`${artist.id}`) : "mb-2 hover:text-aqua"}
             >

@@ -26,7 +26,7 @@ const Nav = () => {
   };
 
   return (
-    <nav className=" hidden md:flex sticky min-h-screen flex-col justify-between pb-2 mr-4">
+    <nav className=" hidden sm:flex sticky min-h-screen flex-col justify-between pb-2 mr-4">
       <div className="flex flex-col w-40 ml-4">
         <Link href="/" className="font-bold mb-10 mt-1">
           So Far So Near

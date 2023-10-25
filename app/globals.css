@@ -46,3 +46,14 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.3);
 
 }
+
+
+.glass2 {
+    background: rgba(30, 90, 76, 0.61);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.9px);
+    -webkit-backdrop-filter: blur(2.9px);
+    border: 1px solid rgba(30, 90, 76, 0.4);
+
+}

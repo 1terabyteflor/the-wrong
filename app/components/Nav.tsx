@@ -36,13 +36,13 @@ const Nav = () => {
             <Link
               key={index}
               href={`/artists/${artist.id}`}
-              className={isDetailPage ? isSelected(`${artist.id}`) : "mb-2 hover:text-aqua"}
+              className={isDetailPage ? isSelected(`${artist.id}`) : "mb-2 hover:text-[#1E5A4C]"}
             >
               {artist.artist}
             </Link>
           );
         })}
-        <Link href="/curatorship" className="font-bold hover:text-aqua mt-9">
+        <Link href="/curatorship" className="font-bold hover:text-[#1E5A4C] mt-9">
           Curatorship
         </Link>
       </div>

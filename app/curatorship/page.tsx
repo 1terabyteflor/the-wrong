@@ -13,7 +13,7 @@ export default async function Curatorship() {
                 <Navbar />
             </div>
             <Nav />
-            <div className="flex flex-col pt-2">
+            <div className="flex flex-col pt-2 pb-10">
                 {/* <h1 className="font-arial font-bold text-lg pt-1 md:pt-0 leading-5">Curatorial Text</h1> */}
                 <p className="font-arial text-xl font-bold sm:text-3xl text-center md:text-left">The materiality of the digital technologies and the possibilities for circulation they enable have been producing a series of modifications in the field of art that reconfigure the concept of artwork, of its medium or form of circulation and, therefore, its reception. <br></br>
                     So far, so near explores a series of pieces made with AI, in order to inquire about certain hegemonic narratives linked not only with the artistic canon but with our worldview. <br></br>

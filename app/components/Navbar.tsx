@@ -25,7 +25,7 @@ const Navbar = () => {
     const isDetailPage = name !== undefined;
 
     const isSelected = (nameId: string) => {
-        return name === nameId ? "mb-2 hover:text-aqua" : "mb-2 opacity-10 hover:text-aqua hover:opacity-100";
+        return name === nameId ? "mb-2 hover:text-[#1E5A4C]" : "mb-2 opacity-10 hover:text-[#1E5A4C] hover:opacity-100";
     };
 
     return (
@@ -52,7 +52,7 @@ const Navbar = () => {
                                 <Link
                                     key={index}
                                     href={`/artists/${artist.id}`}
-                                    className={isDetailPage ? isSelected(`${artist.id}`) : "mb-12 hover:text-aqua"}
+                                    className={isDetailPage ? isSelected(`${artist.id}`) : "mb-12 hover:text-[#1E5A4C]"}
                                 >
                                     <li className='mb-4'>
                                         {artist.artist}

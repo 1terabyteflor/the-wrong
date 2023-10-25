@@ -45,7 +45,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({album}) => {
     };
   
     return (
-      <div className='mx-5 h-full w-full mb-5 '>
+      <div className='sm:mx-5 h-full w-full mb-5 '>
         <Image src={album.coverImage} width={400} height={400} alt={album.title} />
         <h2 className='font-bold'>{album.title}</h2>
         <ul>

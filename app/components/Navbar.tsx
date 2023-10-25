@@ -32,7 +32,7 @@ const Navbar = () => {
         <div style={{ backgroundColor: `transparent` }} className='fixed left-0 top-0 w-full z-10 ease-in duration-300 '>
             <div className='max-w-[1500px] pt-2 flex justify-end items-center text-black'>
                 {/* Mobile Button */}
-                <div onClick={handleNav} className='block sm:hidden z-10 mr-2'>
+                <div onClick={handleNav} className='block sm:hidden z-10 mr-4 pt-2'>
                     {nav ?
                         (<AiOutlineClose style={{ color: `${textColor}` }} size={25} />)
                         :
@@ -55,14 +55,19 @@ const Navbar = () => {
                                     className={isDetailPage ? isSelected(`${artist.id}`) : "mb-12 hover:text-aqua"}
                                 >
                                     <li className='mb-4'>
-                                    {artist.artist}
+                                        {artist.artist}
                                     </li>
                                 </Link>
                             );
                         })}
                         <li>
-                            <Link onClick={handleNav} href='/'>
-                                <h4 className='italic'>Curatorship</h4>
+                            <Link onClick={handleNav} href='/curatorship'>
+                                <h4 className='italic my-10'>Curatorship</h4>
+                            </Link>
+                        </li>
+                        <li>
+                            <Link href="https://thewrong.org/" target="_blank">
+                                <Image src="/logo.png" width={150} height={150} alt="The Wrong Biennale" className="flex bottom-2" />
                             </Link>
                         </li>
                     </ul>

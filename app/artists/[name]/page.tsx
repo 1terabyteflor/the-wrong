@@ -46,7 +46,13 @@ export default async function Page({ params }: ArtistPageProps) {
       <div className="hidden md:flex md:fixed left-0 top-0 overflow-y-auto">
         <Nav />
       </div>
-      <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center ">
+      <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center items-center">
+        <div className="flex mb-4 items-center ">
+
+          <h3 className="font-bold justify-center">
+            {artist.artist}
+          </h3>
+        </div>
         {
           artist.video !== "" && (
             <iframe src={artist.video} width="1220" height="687" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>          

@@ -8,16 +8,16 @@ import Navbar from "../components/Navbar";
 
 export default async function Curatorship() {
     return (
-        <div className="flex w-full pr-40">
+        <div className="flex w-full sm:pr-40 px-4 pt-10 sm:px-0 sm:pt-0 justify-center">
             <div className="z-[3]">
                 <Navbar />
             </div>
             <Nav />
-            <div className="flex flex-col">
-                <h1 className="font-arial font-bold text-lg pt-1">Curatorial Text</h1>
-                <p className="font-arial text-sm">The materiality of the digital technologies and the possibilities for circulation they enable have been producing a series of modifications in the field of art that reconfigure the concept of artwork, of its medium or form of circulation and, therefore, its reception. <br></br>
-                    So far, so near explores a series of pieces made with AI, in order to inquire about certain hegemonic narratives  linked not only with the artistic canon but with our worldview. <br></br>
-                    AI tools have motivated artists to produce pieces in an exponentially wild way. But, What limits and potentialities emerge in this field of experimentation? Is it possible to produce critical reflections using the processes and languages that the system under investigation provides? <br></br>
+            <div className="flex flex-col pt-2">
+                {/* <h1 className="font-arial font-bold text-lg pt-1 md:pt-0 leading-5">Curatorial Text</h1> */}
+                <p className="font-arial text-xl font-bold sm:text-3xl text-center md:text-left">The materiality of the digital technologies and the possibilities for circulation they enable have been producing a series of modifications in the field of art that reconfigure the concept of artwork, of its medium or form of circulation and, therefore, its reception. <br></br>
+                    So far, so near explores a series of pieces made with AI, in order to inquire about certain hegemonic narratives linked not only with the artistic canon but with our worldview. <br></br>
+                    AI tools have motivated artists to produce pieces in an exponentially wild way. But, what limits and potentialities emerge in this field of experimentation? Is it possible to produce critical reflections using the processes and languages that the system under investigation provides? <br></br>
                     Using different raw materials as a source of inspiration the corpus gathers collage, digital and analogue photography, video, illustration and sounds.</p>
                 <br></br>
                 <h1 className="font-arial font-bold text-lg">About the Curator</h1>

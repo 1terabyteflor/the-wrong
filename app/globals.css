@@ -57,3 +57,8 @@ body {
     border: 1px solid rgba(30, 90, 76, 0.4);
 
 }
+
+.container-vimeo {
+    padding:56.25% 0 0 0;
+    position:relative;
+}

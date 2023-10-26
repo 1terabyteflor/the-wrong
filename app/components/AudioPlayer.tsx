@@ -45,14 +45,14 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({album}) => {
     };
   
     return (
-      <div className='sm:mx-5 h-full w-full mb-5 '>
+      <div className='sm:mr-5 h-full w-full mb-5 '>
         <Image src={album.coverImage} width={400} height={400} alt={album.title} />
         <h2 className='font-bold'>{album.title}</h2>
         <ul>
           {album.tracks.map((track, index) => (
             <li key={index}>
               <button onClick={() => handleTrackClick(index)} className='mr-3'>
-              {currentTrack === index && !audioRef.current?.paused ? (
+              {currentTrack === index ? (
                 <FontAwesomeIcon icon={faPause} className='icon' />
               ) : (
                 <FontAwesomeIcon icon={faPlay} className='icon' />

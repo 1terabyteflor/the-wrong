@@ -39,14 +39,14 @@ export default async function Page({ params }: ArtistPageProps) {
   };
 
   return (
-    <div className="flex flex-col py-3 px-10 justify-center">
+    <div className="flex flex-col pb-3 pt-2 px-10 justify-center">
       <div className="z-[3]">
         <Navbar />
       </div>
       <div className="hidden md:flex md:fixed left-0 top-0 overflow-y-auto">
         <Nav />
       </div>
-      <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center items-center">
+      <div className="md:pl-52 md:pr-2 flex-1 flex-col overflow-y-auto justify-center items-center">
         <div className="flex mb-4 items-center ">
 
           <h3 className="font-bold justify-center">

@@ -39,14 +39,14 @@ export default async function Page({ params }: ArtistPageProps) {
   };
 
   return (
-    <div className="flex flex-col py-3 px-10 justify-center">
+    <div className="flex flex-col pb-3 pt-2 px-10 justify-center">
       <div className="z-[3]">
         <Navbar />
       </div>
       <div className="hidden md:flex md:fixed left-0 top-0 overflow-y-auto">
         <Nav />
       </div>
-      <div className="md:pl-52 md:pr-2 pt-10 flex-1 flex-col overflow-y-auto justify-center items-center">
+      <div className="md:pl-52 md:pr-2 flex-1 flex-col overflow-y-auto justify-center items-center">
         <div className="flex mb-4 items-center ">
 
           <h3 className="font-bold justify-center">
@@ -55,9 +55,8 @@ export default async function Page({ params }: ArtistPageProps) {
         </div>
         {
           artist.video !== "" && (
-            <iframe src={artist.video} width="1220" height="687" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>          
-          )
-        }
+            <div className="container-vimeo"><iframe src={artist.video} className="absolute top-0 left-0 w-full h-full" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe></div> )    
+          }
 
         {!!artist.album && (
           <div className="flex flex-col md:flex-row">
@@ -82,7 +81,7 @@ export default async function Page({ params }: ArtistPageProps) {
         {formattedAbout.split("\n").map((line: any, index: any) => (
           <p key={index}>{line}</p>
         ))}
-        <h3 className="font-bold mt-4 font-arial">About</h3>
+        <h3 className="font-bold mt-4 font-arial mb-2">About</h3>
         {formattedBio.split("\n").map((line: any, index: any) => (
           <p key={index}>{line}</p>
         ))}

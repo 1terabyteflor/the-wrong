@@ -85,7 +85,7 @@ export default async function Page({ params }: ArtistPageProps) {
         {formattedBio.split("\n").map((line: any, index: any) => (
           <p key={index}>{line}</p>
         ))}
-        <h3 className="font-bold mt-4 font-arial">Contact</h3>
+        <h3 className="font-bold mt-4 font-arial mb-2">Contact</h3>
         <div className="flex">
           {artist.social.map((social: any, key: number) => (
             <Link key={key} href={social} className="mr-3 underline hover:text-aqua" target="_blank">

@@ -30,6 +30,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({album}) => {
       if (currentTrack === trackIndex) {
         if (audioRef.current) {
           if (audioRef.current.paused) {
+            audioRef.current.load();
             audioRef.current.play();
           } else {
             audioRef.current.pause();
@@ -39,6 +40,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({album}) => {
         setCurrentTrack(trackIndex);
         if (audioRef.current) {
           audioRef.current.src = album.tracks[trackIndex].audioUrl;
+          audioRef.current.load();
           audioRef.current.play();
         }
       }

@@ -19,13 +19,13 @@ export default async function Curatorship() {
                     AI tools have motivated artists to produce pieces in an exponentially wild way. But, what limits and potentialities emerge in this field of experimentation? Is it possible to produce critical reflections using the processes and languages that the system under investigation provides? <br></br>
                     Using different raw materials as a source of inspiration the corpus gathers collage, digital and analogue photography, video, illustration and sounds.</p>
                 <br></br>
-                <h1 className="font-arial font-bold text-lg mt-10 mb-2">About the Curator</h1>
+                <h1 className="font-arial font-bold text-lg mt-10 mb-3">About the Curator</h1>
                 <p className="font-arial text-sm">Laura Focarazzo is an experimental filmmaker and independent curator based in Buenos Aires, Argentina. She holds an MA in Curatorship of Visual Art, and researches in the field of Electronic Arts.  <br></br>
                     As a curator, she has worked in projects for the Ribalta Experimental Film Festival, Italy; TENT, Festival for experimental films and new media, India; Strangloscope - Mostra International de audio, video/filme & performance experimental, Brazil; the [.BOX] Videoart project space, Italy; The Wrong Biennale, online; Galería del Museo Marítimo y del Presidio, Argentina; MUNTREF, Museo de Artes Visuales, Argentina, among others.<br></br>
                     As an artist, she has had exhibitions at ICA, The Institute of Contemporary Arts, London; ZKM, Germany; FILE - Electronic Language International Festival, Brazil; BienalSur, Argentina; Echo Park Film Center, Los Angeles; MACBA, Museo de Arte Contemporáneo de Buenos Aires, Argentina; Festival Les Instants vidéo: 50 Years of Video Art, France; BAFICI - International Independent Film Festival of Buenos Aires, Argentina; Rencontres Traverse Vidéo at La Cinémathèque Toulouse, France; Incubarte, International Independent Art Festival, Spain; Festival Punto y Raya, Reykjavík; Copenhagen Art Festival, Denmark, among others. Her work has been included at datta.art, a platform that commissions original digital artworks by established and emerging artists for selling.
                 </p>
                 <br></br>
-                <h1 className="font-arial font-bold mb-2">Contact</h1>
+                <h1 className="font-arial font-bold mb-3">Contact</h1>
                 <div className="flex">
                     <Link href="https://vimeo.com/laurafocarazzo" target="_blank">
                         <FontAwesomeIcon icon={faVimeoV} className="mr-3 icon" />

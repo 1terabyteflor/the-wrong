@@ -32,7 +32,7 @@ export default async function Page({ params }: ArtistPageProps) {
 
   const getTitleFromUrl = (url: string) => {
     const cleanedUrl = url.replace(/https:\/\/www\./, "");
-    const urlParts = cleanedUrl.split("/");
+    const urlParts = cleanedUrl.split("//");
     const title = urlParts[urlParts.length - 1];
 
     return title;

@@ -39,7 +39,7 @@ export default async function Page({ params }: ArtistPageProps) {
   };
 
   return (
-    <div className="flex flex-col pb-3 pt-2 px-10 justify-center">
+    <div className="flex flex-col pb-6 pt-1 px-10 justify-center">
       <div className="z-[3]">
         <Navbar />
       </div>
@@ -47,9 +47,8 @@ export default async function Page({ params }: ArtistPageProps) {
         <Nav />
       </div>
       <div className="md:pl-52 md:pr-2 flex-1 flex-col overflow-y-auto justify-center items-center">
-        <div className="flex mb-4 items-center ">
-
-          <h3 className="font-bold justify-center">
+        <div className="flex mb-4 items-center">
+          <h3 className="font-bold justify-center pt-2 md:pt-0">
             {artist.artist}
           </h3>
         </div>
@@ -86,15 +85,15 @@ export default async function Page({ params }: ArtistPageProps) {
           <p key={index}>{line}</p>
         ))}
         <h3 className="font-bold mt-4 font-arial mb-2">Contact</h3>
-        <div className="flex">
+        <div className="flex flex-col">
           {artist.social.map((social: any, key: number) => (
-            <Link key={key} href={social} className="mr-3 underline hover:text-aqua" target="_blank">
+            <div className="flex items-center"><Image src='/circle.svg' width={11} height={11} alt="circle" className="mr-2 mt-1" /><Link key={key} href={social} className="mr-3 underline hover:text-aqua" target="_blank">
               {social.toLowerCase().includes("instagram") ? (
                 <FontAwesomeIcon icon={faInstagram} className="mt-1 icon" />
               ) : (
                 getTitleFromUrl(social)
               )}
-            </Link>
+            </Link></div>
           ))}
         </div>
       </div>

@@ -9,13 +9,20 @@ import artistsJson from "@/data/artists.json";
 
 const artists = Array.from(artistsJson.artists);
 
+interface NavbarProps {
+    isNavbar: boolean;
+};
 
-
-
-const Navbar = () => {
+const Navbar: React.FC<NavbarProps> = ({ isNavbar }) => {
     const [nav, setNav] = useState(false);
-    const [color, setColor] = useState('#FFFFFF');
     const [textColor, setTextColor] = useState('black');
+
+    useEffect(() => {
+        if(isNavbar) {
+            handleNav();
+            !isNavbar;
+        }
+    }, [isNavbar]);
 
     const handleNav = () => {
         setNav(!nav)

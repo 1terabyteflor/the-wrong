@@ -87,7 +87,7 @@ export default async function Page({ params }: ArtistPageProps) {
         <h3 className="font-bold mt-4 font-arial mb-2">Contact</h3>
         <div className="flex flex-col">
           {artist.social.map((social: any, key: number) => (
-            <div className="flex items-center"><Image src='/circle.svg' width={11} height={11} alt="circle" className="mr-2 mt-1" /><Link key={key} href={social} className="mr-3 underline hover:text-aqua" target="_blank">
+            <div key={key} className="flex items-center"><Image src='/circle.svg' width={11} height={11} alt="circle" className="mr-2 mt-1" /><Link key={key} href={social} className="mr-3 underline hover:text-aqua" target="_blank">
               {social.toLowerCase().includes("instagram") ? (
                 <FontAwesomeIcon icon={faInstagram} className="mt-1 icon" />
               ) : (

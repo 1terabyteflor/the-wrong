@@ -10,7 +10,7 @@ import artistsJson from "@/data/artists.json";
 const artists = Array.from(artistsJson.artists);
 
 interface NavbarProps {
-    isNavbar: boolean;
+    isNavbar?: boolean;
 };
 
 const Navbar: React.FC<NavbarProps> = ({ isNavbar }) => {
